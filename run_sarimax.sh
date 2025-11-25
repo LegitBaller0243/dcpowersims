@@ -23,5 +23,5 @@ else
     source sarimax_env/bin/activate
 fi
 
-python -u sarimax_script.py
+python -u sarimax_state.py
 deactivate
